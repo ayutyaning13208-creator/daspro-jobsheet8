@@ -17,9 +17,7 @@ public class Triangle09 {
             System.out.println(); // perintah yg ditambahkan 
             i++;
         }
-
         System.out.println(); // Memberi jarak spasi antar segitiga
-
         // 2. Segitiga Terbalik
         i = n; // Cukup tulis i = n; tanpa kata 'int'
         while (i > 0) {
